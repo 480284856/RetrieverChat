@@ -1,0 +1,180 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="第 1 页" id="zVMaS3hqHl1qUJzgoaOU">
+    <mxGraphModel dx="988" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XOqNEXfIE6SfR0DYRYHT-2" value="transform_res_monitor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOqNEXfIE6SfR0DYRYHT-3" value="嘀嗒计时器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="vEEeZOISnCh_lagSLLsd-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="680" width="300" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="640" as="sourcePoint" />
+            <mxPoint x="50" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-9" value="录音" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="45" y="658" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vEEeZOISnCh_lagSLLsd-10" target="vEEeZOISnCh_lagSLLsd-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vEEeZOISnCh_lagSLLsd-10" target="vEEeZOISnCh_lagSLLsd-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-10" value="&lt;div style=&quot;color: #d4d4d4;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;transform_res&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="700" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-12" value="重置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-13" value="有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="688" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-15" value="没有 &amp;amp; 超过30s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="798" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-16" value="进入休眠模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="875" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-19" value="线程，实时监测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="705" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vEEeZOISnCh_lagSLLsd-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-22" value="主工作流" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vEEeZOISnCh_lagSLLsd-22" target="vEEeZOISnCh_lagSLLsd-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="190" />
+              <mxPoint x="100" y="190" />
+              <mxPoint x="100" y="90" />
+              <mxPoint x="190" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vEEeZOISnCh_lagSLLsd-25" target="vEEeZOISnCh_lagSLLsd-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-30" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vEEeZOISnCh_lagSLLsd-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.1305" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vEEeZOISnCh_lagSLLsd-25" target="vEEeZOISnCh_lagSLLsd-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-33" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vEEeZOISnCh_lagSLLsd-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.2217" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-25" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;transform_res=None&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;超过30s？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="30" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="100" as="sourcePoint" />
+            <mxPoint x="260" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-27" value="transform_res=None" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="215" y="18" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-31" value="进入休眠状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="415" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-34" value="重置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-35" value="主工作流" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-36" value="transform_res_monitor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1440" as="sourcePoint" />
+            <mxPoint x="760" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1430" as="sourcePoint" />
+            <mxPoint x="560" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-39" value="to_sleep" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-43" value="嘀嗒计时器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-44" value="1. 到这里之后，进入休眠模式。&lt;div&gt;2. 如果在这之前接收到了语音，&lt;br&gt;&amp;nbsp; &amp;nbsp; 则主工作流会开始向右移动。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1445" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-46" value="主工作流：固定回复语音对话的核心程序。&lt;div&gt;transform_res_monitor: 用于监测是否有语音输入。&lt;/div&gt;&lt;div&gt;嘀嗒计时器：用于计数。&lt;/div&gt;&lt;div&gt;Recognition：语音识别的API实例，单独提出来，有助于在主工作流被terminate后，还能够关掉音频设备。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;上图表示开始依次语音对话后，如何从激活态转换到激活态或休眠态的过程：&lt;/div&gt;&lt;div&gt;图中三个方框会从左到右移动，表示程序的运行。&lt;/div&gt;&lt;div&gt;步骤1：我们首先创建&quot;&lt;span style=&quot;background-color: initial;&quot;&gt;transform_res_monitor&quot;、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;嘀嗒计时器&quot;和&quot;主工作流&quot;，此时，“主工作流”会等待语音输入，而其他两个模块则会向右移动。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;步骤2：如果&lt;span style=&quot;background-color: initial;&quot;&gt;”transform_res_monitor&quot; 和 &quot;嘀嗒计时器&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;运行到了“to_sleep&quot;时间点，那么把这三个方框都kill掉，进入休眠模式。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;步骤3：如果&lt;span style=&quot;background-color: initial;&quot;&gt;”transform_res_monitor&quot; 和 &quot;嘀嗒计时器&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;在前往&quot;to_sleep&quot;时间点的过程中，&quot;transform_res_monitor&quot;检测到了语音输入，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;那么把&quot;transform_res_monitor&quot;和&quot;嘀嗒计时器“删除，同时”主工作流“会自动移动，然后回到步骤1。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;关于”主工作流“压根没有运行，上述逻辑会卡住的解决方法：&lt;/div&gt;&lt;div&gt;我们可以这样想一下，“主程序流”在开始向右移动时，假设已经运行过一次了，那么在那一次之后，按照上面的逻辑，我们需要创建&lt;span style=&quot;background-color: initial;&quot;&gt;”transform_res_monitor&quot; 和 &quot;嘀嗒计时器&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;那么解决方法就来了，我们只需要在“主工作流”移动之前，先创建一对&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”transform_res_monitor&quot; 和 &quot;嘀嗒计时器&quot;,如下图所示：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;从休眠态转换为激活态后，我们先创建一对&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;”transform_res_monitor&quot; 和 &quot;嘀嗒计时器&quot;，如果在规定时间内没有语音输入，则把这三个方框kill掉，进入休眠态；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;如果在规定的时间内收到了语音输入，那么这两个方框自毁，让“主工作流”移动，进入上面的逻辑。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1590" width="940" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="1930" as="sourcePoint" />
+            <mxPoint x="835" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-48" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="vEEeZOISnCh_lagSLLsd-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1920" as="sourcePoint" />
+            <mxPoint x="320" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-49" value="主工作流移动起点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1865" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-50" value="主工作流" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-51" value="transform_res_monitor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-52" value="嘀嗒计时器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="1920" as="sourcePoint" />
+            <mxPoint x="30" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEEeZOISnCh_lagSLLsd-54" value="被激活" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1865" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
