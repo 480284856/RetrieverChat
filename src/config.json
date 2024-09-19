@@ -1,7 +1,7 @@
 {
-    "lingji_key": "sk-8deaaacf2fb34929a076dfc993273195",          
+    "lingji_key": "sk-",          
     "embedding_model_url": "http://172.17.0.3:11434",
     "name_embedding_model": "nomic-embed-text",
     "zijie_tts_app_id": "3065693124",
-    "zijie_tts_access_token": "OBINUyUlD0ZnrMA10zh6ykOvISm2SRN-"
+    "zijie_tts_access_token": ""
 }
